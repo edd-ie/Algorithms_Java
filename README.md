@@ -9,7 +9,7 @@ Algorithms and data structures are fundamental to efficient code and good softwa
 
 # Contributing
 
-This repository is contribution friendly :smiley:. If you'd like to add or improve an algorithm, your contribution is welcome! Please be sure to check out the [Wiki](https://github.com/williamfiset/Algorithms/wiki) for instructions.
+This repository is contribution friendly :smiley:. If you'd like to add or improve an algorithm, your contribution is welcome! Please be sure to check out the [Wiki](https://github.com/williamfiset/Algorithms/wiki) for the instructions.
 
 ### Other programming languages?
 
